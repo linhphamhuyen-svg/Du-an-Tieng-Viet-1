@@ -1,0 +1,6 @@
+{
+  "name": "Học Tiếng Việt Lớp 1",
+  "description": "Trang web học tiếng Việt đáng yêu, vui tươi cho học sinh lớp 1, tích hợp lưu danh sách và tiến độ học tập vào Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
